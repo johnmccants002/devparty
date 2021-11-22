@@ -289,3 +289,4 @@ func addBorder(edge: UIRectEdge, color: UIColor, thickness: CGFloat) {
     addSublayer(border)
     }
 }
+
